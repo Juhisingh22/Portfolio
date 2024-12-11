@@ -25,7 +25,7 @@ open http://localhost:3000 to view it in the browser.
 
 # View of Website
 
-# ![Flow Diagram](https://github.com/Juhisingh22/Portfolio/blob/main/Images/portfolio_image1.png)
+# ![Flow Diagram](https://github.com/Juhisingh22/Portfolio/blob/main/Images/Home1.png)
 
 # ![Flow Diagram](https://github.com/Juhisingh22/Portfolio/blob/main/Images/portfolio_image2.png)
 
